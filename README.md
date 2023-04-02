@@ -7,3 +7,8 @@ $ conda create -n dsi200_demo python=3.6
 $ conda activate dsi200_demo
 $ conda deactivate
 ```
+#intall jupyter
+
+```sh
+$ pip install jupyterlab
+```
